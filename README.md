@@ -1,3 +1,3 @@
 # Carlos-Soto22.github.io
 
-[View the Google Sheet](iframe.html)
+[View the Google Sheet](all_deals.html)
